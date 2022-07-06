@@ -19,7 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `🔥♥️Hey! I'm Crazy Bot♥️🔥
+global.alivemsg = `🔥♥️Hey! I'm Crazy Whatsapp Bot♥️🔥
 My Creator is Shanal Nimnath😎♥️` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94722705499'] //Owner number in aive msg
